@@ -1,0 +1,20 @@
+[package]
+name = "todo"
+version = "0.1.0"
+edition = "2021"
+description = "Encontra tags [TODO] no seu código e as exibe em uma TUI elegante"
+rust-version = "1.74"
+
+[[bin]]
+name = "todo"
+path = "src/main.rs"
+
+[dependencies]
+ratatui = "0.29"
+clap = { version = "4", features = ["derive"] }
+ignore = "0.4"
+
+[profile.release]
+lto = true
+strip = true
+codegen-units = 1

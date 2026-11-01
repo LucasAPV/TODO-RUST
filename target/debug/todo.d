@@ -1,0 +1,1 @@
+C:\RustProjetcs\remeber-pjs\todo\target\debug\todo.exe: C:\RustProjetcs\remeber-pjs\todo\src\app.rs C:\RustProjetcs\remeber-pjs\todo\src\main.rs C:\RustProjetcs\remeber-pjs\todo\src\parser.rs C:\RustProjetcs\remeber-pjs\todo\src\scanner.rs C:\RustProjetcs\remeber-pjs\todo\src\theme.rs C:\RustProjetcs\remeber-pjs\todo\src\ui.rs

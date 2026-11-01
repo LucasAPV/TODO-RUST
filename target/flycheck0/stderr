@@ -1,0 +1,1921 @@
+   0.096696400s  INFO prepare_target{force=false package_id=todo v0.1.0 (C:\RustProjetcs\remeber-pjs\todo) target="todo"}: cargo::core::compiler::fingerprint: fingerprint error for todo v0.1.0 (C:\RustProjetcs\remeber-pjs\todo)/Check { test: false }/TargetInner { name: "todo", doc: true, ..: with_path("C:\\RustProjetcs\\remeber-pjs\\todo\\src\\main.rs", Edition2021) }
+   0.096761500s  INFO prepare_target{force=false package_id=todo v0.1.0 (C:\RustProjetcs\remeber-pjs\todo) target="todo"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\todo-a80a5477fb769a79\bin-todo`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.105095400s  INFO prepare_target{force=false package_id=clap v4.6.7 target="clap"}: cargo::core::compiler::fingerprint: fingerprint error for clap v4.6.7/Check { test: false }/TargetInner { benched: false, ..: lib_target("clap", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap-4.6.7\\src\\lib.rs", Edition2024) }
+   0.105138300s  INFO prepare_target{force=false package_id=clap v4.6.7 target="clap"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\clap-bfa2c793df8f3340\lib-clap`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.105686800s  INFO prepare_target{force=false package_id=clap_builder v4.6.7 target="clap_builder"}: cargo::core::compiler::fingerprint: fingerprint error for clap_builder v4.6.7/Check { test: false }/TargetInner { benched: false, ..: lib_target("clap_builder", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap_builder-4.6.7\\src\\lib.rs", Edition2024) }
+   0.105701700s  INFO prepare_target{force=false package_id=clap_builder v4.6.7 target="clap_builder"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\clap_builder-91d5aa3461573643\lib-clap_builder`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.106166500s  INFO prepare_target{force=false package_id=anstream v1.0.0 target="anstream"}: cargo::core::compiler::fingerprint: fingerprint error for anstream v1.0.0/Check { test: false }/TargetInner { ..: lib_target("anstream", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\anstream-1.0.0\\src\\lib.rs", Edition2021) }
+   0.106180100s  INFO prepare_target{force=false package_id=anstream v1.0.0 target="anstream"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\anstream-beebc582756c78f2\lib-anstream`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.106635300s  INFO prepare_target{force=false package_id=anstyle v1.0.14 target="anstyle"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle v1.0.14/Check { test: false }/TargetInner { ..: lib_target("anstyle", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\anstyle-1.0.14\\src\\lib.rs", Edition2021) }
+   0.106649400s  INFO prepare_target{force=false package_id=anstyle v1.0.14 target="anstyle"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\anstyle-b64929964dd6beb0\lib-anstyle`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.107094900s  INFO prepare_target{force=false package_id=anstyle-parse v1.0.0 target="anstyle_parse"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle-parse v1.0.0/Check { test: false }/TargetInner { ..: lib_target("anstyle_parse", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\anstyle-parse-1.0.0\\src\\lib.rs", Edition2021) }
+   0.107110700s  INFO prepare_target{force=false package_id=anstyle-parse v1.0.0 target="anstyle_parse"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\anstyle-parse-299276d3aa2b86a4\lib-anstyle_parse`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.107722300s  INFO prepare_target{force=false package_id=utf8parse v0.2.2 target="utf8parse"}: cargo::core::compiler::fingerprint: fingerprint error for utf8parse v0.2.2/Check { test: false }/TargetInner { ..: lib_target("utf8parse", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\utf8parse-0.2.2\\src\\lib.rs", Edition2018) }
+   0.107745200s  INFO prepare_target{force=false package_id=utf8parse v0.2.2 target="utf8parse"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\utf8parse-b5a1662bbcfa7f7f\lib-utf8parse`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.124335600s  INFO prepare_target{force=false package_id=anstyle-query v1.1.5 target="anstyle_query"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle-query v1.1.5/Check { test: false }/TargetInner { ..: lib_target("anstyle_query", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\anstyle-query-1.1.5\\src\\lib.rs", Edition2021) }
+   0.124367000s  INFO prepare_target{force=false package_id=anstyle-query v1.1.5 target="anstyle_query"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\anstyle-query-3882ab78b2bb7168\lib-anstyle_query`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.125282200s  INFO prepare_target{force=false package_id=windows-sys v0.61.2 target="windows_sys"}: cargo::core::compiler::fingerprint: fingerprint error for windows-sys v0.61.2/Check { test: false }/TargetInner { tested: false, doctest: false, ..: lib_target("windows_sys", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows-sys-0.61.2\\src\\lib.rs", Edition2021) }
+   0.125306800s  INFO prepare_target{force=false package_id=windows-sys v0.61.2 target="windows_sys"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\windows-sys-811355f84400322c\lib-windows_sys`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.125864900s  INFO prepare_target{force=false package_id=windows-link v0.2.1 target="windows_link"}: cargo::core::compiler::fingerprint: fingerprint error for windows-link v0.2.1/Check { test: false }/TargetInner { ..: lib_target("windows_link", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\windows-link-0.2.1\\src\\lib.rs", Edition2021) }
+   0.125880500s  INFO prepare_target{force=false package_id=windows-link v0.2.1 target="windows_link"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\windows-link-3842c44045075457\lib-windows_link`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_filter_source_repo
+  17: git_libgit2_prerelease
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: <unknown>
+  22: git_midx_writer_dump
+  23: git_filter_source_repo
+  24: git_midx_writer_dump
+  25: BaseThreadInitThunk
+  26: RtlUserThreadStart
+   0.126335300s  INFO prepare_target{force=false package_id=anstyle-wincon v3.0.11 target="anstyle_wincon"}: cargo::core::compiler::fingerprint: fingerprint error for anstyle-wincon v3.0.11/Check { test: false }/TargetInner { ..: lib_target("anstyle_wincon", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\anstyle-wincon-3.0.11\\src\\lib.rs", Edition2021) }
+   0.126350600s  INFO prepare_target{force=false package_id=anstyle-wincon v3.0.11 target="anstyle_wincon"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\anstyle-wincon-755142b7d4f5ffe9\lib-anstyle_wincon`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.126790300s  INFO prepare_target{force=false package_id=once_cell_polyfill v1.70.2 target="once_cell_polyfill"}: cargo::core::compiler::fingerprint: fingerprint error for once_cell_polyfill v1.70.2/Check { test: false }/TargetInner { ..: lib_target("once_cell_polyfill", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\once_cell_polyfill-1.70.2\\src\\lib.rs", Edition2021) }
+   0.126803000s  INFO prepare_target{force=false package_id=once_cell_polyfill v1.70.2 target="once_cell_polyfill"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\once_cell_polyfill-52505ebef9c464d8\lib-once_cell_polyfill`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.127243500s  INFO prepare_target{force=false package_id=colorchoice v1.0.5 target="colorchoice"}: cargo::core::compiler::fingerprint: fingerprint error for colorchoice v1.0.5/Check { test: false }/TargetInner { ..: lib_target("colorchoice", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\colorchoice-1.0.5\\src\\lib.rs", Edition2021) }
+   0.127259000s  INFO prepare_target{force=false package_id=colorchoice v1.0.5 target="colorchoice"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\colorchoice-ecd2ab136497d85d\lib-colorchoice`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.127937600s  INFO prepare_target{force=false package_id=is_terminal_polyfill v1.70.2 target="is_terminal_polyfill"}: cargo::core::compiler::fingerprint: fingerprint error for is_terminal_polyfill v1.70.2/Check { test: false }/TargetInner { ..: lib_target("is_terminal_polyfill", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\is_terminal_polyfill-1.70.2\\src\\lib.rs", Edition2021) }
+   0.127967600s  INFO prepare_target{force=false package_id=is_terminal_polyfill v1.70.2 target="is_terminal_polyfill"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\is_terminal_polyfill-97f91211de5af511\lib-is_terminal_polyfill`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.128567200s  INFO prepare_target{force=false package_id=clap_lex v1.1.1 target="clap_lex"}: cargo::core::compiler::fingerprint: fingerprint error for clap_lex v1.1.1/Check { test: false }/TargetInner { benched: false, ..: lib_target("clap_lex", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\clap_lex-1.1.1\\src\\lib.rs", Edition2024) }
+   0.128590600s  INFO prepare_target{force=false package_id=clap_lex v1.1.1 target="clap_lex"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\clap_lex-56b5356c218169ab\lib-clap_lex`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.129208700s  INFO prepare_target{force=false package_id=strsim v0.11.1 target="strsim"}: cargo::core::compiler::fingerprint: fingerprint error for strsim v0.11.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("strsim", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\strsim-0.11.1\\src\\lib.rs", Edition2015) }
+   0.129230100s  INFO prepare_target{force=false package_id=strsim v0.11.1 target="strsim"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\strsim-5229bc5603665afa\lib-strsim`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.131875300s  INFO prepare_target{force=false package_id=ignore v0.4.33 target="ignore"}: cargo::core::compiler::fingerprint: fingerprint error for ignore v0.4.33/Check { test: false }/TargetInner { benched: false, ..: lib_target("ignore", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\ignore-0.4.33\\src\\lib.rs", Edition2024) }
+   0.131897700s  INFO prepare_target{force=false package_id=ignore v0.4.33 target="ignore"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\ignore-9cd02775f2362430\lib-ignore`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.132423500s  INFO prepare_target{force=false package_id=crossbeam-deque v0.8.8 target="crossbeam_deque"}: cargo::core::compiler::fingerprint: fingerprint error for crossbeam-deque v0.8.8/Check { test: false }/TargetInner { ..: lib_target("crossbeam_deque", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\crossbeam-deque-0.8.8\\src\\lib.rs", Edition2021) }
+   0.132438400s  INFO prepare_target{force=false package_id=crossbeam-deque v0.8.8 target="crossbeam_deque"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\crossbeam-deque-1d284dbcc19b3b13\lib-crossbeam_deque`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.133530300s  INFO prepare_target{force=false package_id=crossbeam-epoch v0.9.21 target="crossbeam_epoch"}: cargo::core::compiler::fingerprint: fingerprint error for crossbeam-epoch v0.9.21/Check { test: false }/TargetInner { ..: lib_target("crossbeam_epoch", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\crossbeam-epoch-0.9.21\\src\\lib.rs", Edition2021) }
+   0.133547000s  INFO prepare_target{force=false package_id=crossbeam-epoch v0.9.21 target="crossbeam_epoch"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\crossbeam-epoch-6f4d110b04566410\lib-crossbeam_epoch`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.134693000s  INFO prepare_target{force=false package_id=crossbeam-utils v0.8.23 target="crossbeam_utils"}: cargo::core::compiler::fingerprint: fingerprint error for crossbeam-utils v0.8.23/Check { test: false }/TargetInner { ..: lib_target("crossbeam_utils", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\crossbeam-utils-0.8.23\\src\\lib.rs", Edition2021) }
+   0.134716400s  INFO prepare_target{force=false package_id=crossbeam-utils v0.8.23 target="crossbeam_utils"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\crossbeam-utils-76880a31c2fc2120\lib-crossbeam_utils`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.135779300s  INFO prepare_target{force=false package_id=globset v0.4.20 target="globset"}: cargo::core::compiler::fingerprint: fingerprint error for globset v0.4.20/Check { test: false }/TargetInner { benched: false, ..: lib_target("globset", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\globset-0.4.20\\src\\lib.rs", Edition2024) }
+   0.135796100s  INFO prepare_target{force=false package_id=globset v0.4.20 target="globset"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\globset-cb441d0d698039f5\lib-globset`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.136394600s  INFO prepare_target{force=false package_id=aho-corasick v1.1.5 target="aho_corasick"}: cargo::core::compiler::fingerprint: fingerprint error for aho-corasick v1.1.5/Check { test: false }/TargetInner { ..: lib_target("aho_corasick", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\aho-corasick-1.1.5\\src\\lib.rs", Edition2021) }
+   0.136412400s  INFO prepare_target{force=false package_id=aho-corasick v1.1.5 target="aho_corasick"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\aho-corasick-4f2c5da8734fb7f7\lib-aho_corasick`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.137177900s  INFO prepare_target{force=false package_id=memchr v2.8.3 target="memchr"}: cargo::core::compiler::fingerprint: fingerprint error for memchr v2.8.3/Check { test: false }/TargetInner { benched: false, ..: lib_target("memchr", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\memchr-2.8.3\\src\\lib.rs", Edition2021) }
+   0.137198600s  INFO prepare_target{force=false package_id=memchr v2.8.3 target="memchr"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\memchr-9ca8c9108ea8ede4\lib-memchr`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.137706600s  INFO prepare_target{force=false package_id=bstr v1.13.1 target="bstr"}: cargo::core::compiler::fingerprint: fingerprint error for bstr v1.13.1/Check { test: false }/TargetInner { benched: false, ..: lib_target("bstr", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\bstr-1.13.1\\src\\lib.rs", Edition2021) }
+   0.137726900s  INFO prepare_target{force=false package_id=bstr v1.13.1 target="bstr"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\bstr-81d5e056a00039a7\lib-bstr`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.139249100s  INFO prepare_target{force=false package_id=log v0.4.34 target="log"}: cargo::core::compiler::fingerprint: fingerprint error for log v0.4.34/Check { test: false }/TargetInner { ..: lib_target("log", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\log-0.4.34\\src\\lib.rs", Edition2021) }
+   0.139266400s  INFO prepare_target{force=false package_id=log v0.4.34 target="log"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\log-88451ad3d4f1cc90\lib-log`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.140730200s  INFO prepare_target{force=false package_id=regex-automata v0.4.18 target="regex_automata"}: cargo::core::compiler::fingerprint: fingerprint error for regex-automata v0.4.18/Check { test: false }/TargetInner { benched: false, ..: lib_target("regex_automata", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\regex-automata-0.4.18\\src\\lib.rs", Edition2021) }
+   0.140756900s  INFO prepare_target{force=false package_id=regex-automata v0.4.18 target="regex_automata"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\regex-automata-957b9873f6751e62\lib-regex_automata`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.141432900s  INFO prepare_target{force=false package_id=regex-syntax v0.8.11 target="regex_syntax"}: cargo::core::compiler::fingerprint: fingerprint error for regex-syntax v0.8.11/Check { test: false }/TargetInner { ..: lib_target("regex_syntax", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\regex-syntax-0.8.11\\src\\lib.rs", Edition2021) }
+   0.141456200s  INFO prepare_target{force=false package_id=regex-syntax v0.8.11 target="regex_syntax"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\regex-syntax-9e33a4d1f145453a\lib-regex_syntax`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.142408500s  INFO prepare_target{force=false package_id=same-file v1.0.6 target="same_file"}: cargo::core::compiler::fingerprint: fingerprint error for same-file v1.0.6/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("same_file", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\same-file-1.0.6\\src\\lib.rs", Edition2018) }
+   0.142427500s  INFO prepare_target{force=false package_id=same-file v1.0.6 target="same_file"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\same-file-31f6bf8da5a72e92\lib-same_file`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.142913900s  INFO prepare_target{force=false package_id=winapi-util v0.1.11 target="winapi_util"}: cargo::core::compiler::fingerprint: fingerprint error for winapi-util v0.1.11/Check { test: false }/TargetInner { ..: lib_target("winapi_util", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\winapi-util-0.1.11\\src\\lib.rs", Edition2021) }
+   0.142930700s  INFO prepare_target{force=false package_id=winapi-util v0.1.11 target="winapi_util"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\winapi-util-12fbdd8cd7a1bb51\lib-winapi_util`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.143501300s  INFO prepare_target{force=false package_id=walkdir v2.5.0 target="walkdir"}: cargo::core::compiler::fingerprint: fingerprint error for walkdir v2.5.0/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("walkdir", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\walkdir-2.5.0\\src\\lib.rs", Edition2018) }
+   0.143516700s  INFO prepare_target{force=false package_id=walkdir v2.5.0 target="walkdir"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\walkdir-658958f0af8fd52a\lib-walkdir`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.144268700s  INFO prepare_target{force=false package_id=ratatui v0.29.0 target="ratatui"}: cargo::core::compiler::fingerprint: fingerprint error for ratatui v0.29.0/Check { test: false }/TargetInner { benched: false, ..: lib_target("ratatui", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\ratatui-0.29.0\\src\\lib.rs", Edition2021) }
+   0.144313800s  INFO prepare_target{force=false package_id=ratatui v0.29.0 target="ratatui"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\ratatui-26432fd30437b6c0\lib-ratatui`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.145551300s  INFO prepare_target{force=false package_id=bitflags v2.13.2 target="bitflags"}: cargo::core::compiler::fingerprint: fingerprint error for bitflags v2.13.2/Check { test: false }/TargetInner { ..: lib_target("bitflags", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\bitflags-2.13.2\\src\\lib.rs", Edition2021) }
+   0.145598300s  INFO prepare_target{force=false package_id=bitflags v2.13.2 target="bitflags"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\bitflags-904264fde1fa21bf\lib-bitflags`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.147239200s  INFO prepare_target{force=false package_id=cassowary v0.3.0 target="cassowary"}: cargo::core::compiler::fingerprint: fingerprint error for cassowary v0.3.0/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("cassowary", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cassowary-0.3.0\\src\\lib.rs", Edition2015) }
+   0.147263000s  INFO prepare_target{force=false package_id=cassowary v0.3.0 target="cassowary"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\cassowary-0912d5916ef03229\lib-cassowary`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.147966400s  INFO prepare_target{force=false package_id=compact_str v0.8.2 target="compact_str"}: cargo::core::compiler::fingerprint: fingerprint error for compact_str v0.8.2/Check { test: false }/TargetInner { ..: lib_target("compact_str", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\compact_str-0.8.2\\src\\lib.rs", Edition2021) }
+   0.147984000s  INFO prepare_target{force=false package_id=compact_str v0.8.2 target="compact_str"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\compact_str-678c25aed623f855\lib-compact_str`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.148651100s  INFO prepare_target{force=false package_id=castaway v0.2.4 target="castaway"}: cargo::core::compiler::fingerprint: fingerprint error for castaway v0.2.4/Check { test: false }/TargetInner { ..: lib_target("castaway", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\castaway-0.2.4\\src\\lib.rs", Edition2018) }
+   0.148698100s  INFO prepare_target{force=false package_id=castaway v0.2.4 target="castaway"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\castaway-807eeddb7c0741fa\lib-castaway`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.150278100s  INFO prepare_target{force=false package_id=cfg-if v1.0.5 target="cfg_if"}: cargo::core::compiler::fingerprint: fingerprint error for cfg-if v1.0.5/Check { test: false }/TargetInner { ..: lib_target("cfg_if", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\cfg-if-1.0.5\\src\\lib.rs", Edition2018) }
+   0.150301200s  INFO prepare_target{force=false package_id=cfg-if v1.0.5 target="cfg_if"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\cfg-if-056345f4bb7f6e84\lib-cfg_if`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.150787500s  INFO prepare_target{force=false package_id=itoa v1.0.18 target="itoa"}: cargo::core::compiler::fingerprint: fingerprint error for itoa v1.0.18/Check { test: false }/TargetInner { ..: lib_target("itoa", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\itoa-1.0.18\\src\\lib.rs", Edition2021) }
+   0.150803400s  INFO prepare_target{force=false package_id=itoa v1.0.18 target="itoa"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\itoa-ca0e467fb48f4ad4\lib-itoa`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.151239400s  INFO prepare_target{force=false package_id=ryu v1.0.23 target="ryu"}: cargo::core::compiler::fingerprint: fingerprint error for ryu v1.0.23/Check { test: false }/TargetInner { ..: lib_target("ryu", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\ryu-1.0.23\\src\\lib.rs", Edition2021) }
+   0.151256600s  INFO prepare_target{force=false package_id=ryu v1.0.23 target="ryu"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\ryu-085f93124e955876\lib-ryu`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.151990400s  INFO prepare_target{force=false package_id=static_assertions v1.1.0 target="static_assertions"}: cargo::core::compiler::fingerprint: fingerprint error for static_assertions v1.1.0/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("static_assertions", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\static_assertions-1.1.0\\src\\lib.rs", Edition2015) }
+   0.152014800s  INFO prepare_target{force=false package_id=static_assertions v1.1.0 target="static_assertions"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\static_assertions-553b1a4a626f26bb\lib-static_assertions`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.152440500s  INFO prepare_target{force=false package_id=crossterm v0.28.1 target="crossterm"}: cargo::core::compiler::fingerprint: fingerprint error for crossterm v0.28.1/Check { test: false }/TargetInner { ..: lib_target("crossterm", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\crossterm-0.28.1\\src\\lib.rs", Edition2021) }
+   0.152454800s  INFO prepare_target{force=false package_id=crossterm v0.28.1 target="crossterm"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\crossterm-1da93c6dec8bc90e\lib-crossterm`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.153608000s  INFO prepare_target{force=false package_id=crossterm_winapi v0.9.1 target="crossterm_winapi"}: cargo::core::compiler::fingerprint: fingerprint error for crossterm_winapi v0.9.1/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("crossterm_winapi", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\crossterm_winapi-0.9.1\\src\\lib.rs", Edition2018) }
+   0.153627700s  INFO prepare_target{force=false package_id=crossterm_winapi v0.9.1 target="crossterm_winapi"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\crossterm_winapi-aa9232c5b9abeaee\lib-crossterm_winapi`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.154187000s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="winapi"}: cargo::core::compiler::fingerprint: fingerprint error for winapi v0.3.9/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("winapi", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\winapi-0.3.9\\src\\lib.rs", Edition2015) }
+   0.154206300s  INFO prepare_target{force=false package_id=winapi v0.3.9 target="winapi"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\winapi-838ed01771c1cf07\lib-winapi`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.155488000s  INFO prepare_target{force=false package_id=parking_lot v0.12.5 target="parking_lot"}: cargo::core::compiler::fingerprint: fingerprint error for parking_lot v0.12.5/Check { test: false }/TargetInner { ..: lib_target("parking_lot", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\parking_lot-0.12.5\\src\\lib.rs", Edition2021) }
+   0.155507200s  INFO prepare_target{force=false package_id=parking_lot v0.12.5 target="parking_lot"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\parking_lot-0df469809404c853\lib-parking_lot`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.156479700s  INFO prepare_target{force=false package_id=lock_api v0.4.14 target="lock_api"}: cargo::core::compiler::fingerprint: fingerprint error for lock_api v0.4.14/Check { test: false }/TargetInner { ..: lib_target("lock_api", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\lock_api-0.4.14\\src\\lib.rs", Edition2021) }
+   0.156499300s  INFO prepare_target{force=false package_id=lock_api v0.4.14 target="lock_api"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\lock_api-8f5ee063c0c7f0d5\lib-lock_api`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.157376400s  INFO prepare_target{force=false package_id=scopeguard v1.2.0 target="scopeguard"}: cargo::core::compiler::fingerprint: fingerprint error for scopeguard v1.2.0/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("scopeguard", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\scopeguard-1.2.0\\src\\lib.rs", Edition2015) }
+   0.157395100s  INFO prepare_target{force=false package_id=scopeguard v1.2.0 target="scopeguard"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\scopeguard-f8ad5fe88dbdf9af\lib-scopeguard`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.158063100s  INFO prepare_target{force=false package_id=parking_lot_core v0.9.12 target="parking_lot_core"}: cargo::core::compiler::fingerprint: fingerprint error for parking_lot_core v0.9.12/Check { test: false }/TargetInner { ..: lib_target("parking_lot_core", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\parking_lot_core-0.9.12\\src\\lib.rs", Edition2021) }
+   0.158079200s  INFO prepare_target{force=false package_id=parking_lot_core v0.9.12 target="parking_lot_core"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\parking_lot_core-382dad608620238e\lib-parking_lot_core`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.159136100s  INFO prepare_target{force=false package_id=smallvec v1.16.3 target="smallvec"}: cargo::core::compiler::fingerprint: fingerprint error for smallvec v1.16.3/Check { test: false }/TargetInner { ..: lib_target("smallvec", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\smallvec-1.16.3\\src\\lib.rs", Edition2018) }
+   0.159155100s  INFO prepare_target{force=false package_id=smallvec v1.16.3 target="smallvec"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\smallvec-183e5f51149b943d\lib-smallvec`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_filter_source_repo
+  16: git_libgit2_prerelease
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: <unknown>
+  21: git_midx_writer_dump
+  22: git_filter_source_repo
+  23: git_midx_writer_dump
+  24: BaseThreadInitThunk
+  25: RtlUserThreadStart
+   0.160381300s  INFO prepare_target{force=false package_id=itertools v0.13.0 target="itertools"}: cargo::core::compiler::fingerprint: fingerprint error for itertools v0.13.0/Check { test: false }/TargetInner { name_inferred: true, tested: false, benched: false, ..: lib_target("itertools", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\itertools-0.13.0\\src\\lib.rs", Edition2018) }
+   0.160399700s  INFO prepare_target{force=false package_id=itertools v0.13.0 target="itertools"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\itertools-e98a6d613fd253eb\lib-itertools`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.161228300s  INFO prepare_target{force=false package_id=either v1.19.0 target="either"}: cargo::core::compiler::fingerprint: fingerprint error for either v1.19.0/Check { test: false }/TargetInner { ..: lib_target("either", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\either-1.19.0\\src\\lib.rs", Edition2021) }
+   0.161283500s  INFO prepare_target{force=false package_id=either v1.19.0 target="either"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\either-c6c34a9d8f806194\lib-either`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.162059800s  INFO prepare_target{force=false package_id=lru v0.12.5 target="lru"}: cargo::core::compiler::fingerprint: fingerprint error for lru v0.12.5/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("lru", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\lru-0.12.5\\src\\lib.rs", Edition2015) }
+   0.162084800s  INFO prepare_target{force=false package_id=lru v0.12.5 target="lru"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\lru-50313d9edf063bdc\lib-lru`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.162704700s  INFO prepare_target{force=false package_id=hashbrown v0.15.5 target="hashbrown"}: cargo::core::compiler::fingerprint: fingerprint error for hashbrown v0.15.5/Check { test: false }/TargetInner { ..: lib_target("hashbrown", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\hashbrown-0.15.5\\src\\lib.rs", Edition2021) }
+   0.162730800s  INFO prepare_target{force=false package_id=hashbrown v0.15.5 target="hashbrown"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\hashbrown-bae38cfc5d634181\lib-hashbrown`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.163569200s  INFO prepare_target{force=false package_id=allocator-api2 v0.2.21 target="allocator_api2"}: cargo::core::compiler::fingerprint: fingerprint error for allocator-api2 v0.2.21/Check { test: false }/TargetInner { ..: lib_target("allocator_api2", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\allocator-api2-0.2.21\\src\\lib.rs", Edition2018) }
+   0.163586000s  INFO prepare_target{force=false package_id=allocator-api2 v0.2.21 target="allocator_api2"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\allocator-api2-a5a071345426eb95\lib-allocator_api2`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.164418100s  INFO prepare_target{force=false package_id=equivalent v1.0.3 target="equivalent"}: cargo::core::compiler::fingerprint: fingerprint error for equivalent v1.0.3/Check { test: false }/TargetInner { ..: lib_target("equivalent", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\equivalent-1.0.3\\src\\lib.rs", Edition2015) }
+   0.164435100s  INFO prepare_target{force=false package_id=equivalent v1.0.3 target="equivalent"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\equivalent-72408ba7e0fd58ce\lib-equivalent`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.165059600s  INFO prepare_target{force=false package_id=foldhash v0.1.5 target="foldhash"}: cargo::core::compiler::fingerprint: fingerprint error for foldhash v0.1.5/Check { test: false }/TargetInner { benched: false, ..: lib_target("foldhash", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\foldhash-0.1.5\\src\\lib.rs", Edition2021) }
+   0.165073500s  INFO prepare_target{force=false package_id=foldhash v0.1.5 target="foldhash"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\foldhash-6d11bbdd5215be0d\lib-foldhash`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: git_libgit2_prerelease
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: <unknown>
+  20: git_midx_writer_dump
+  21: git_filter_source_repo
+  22: git_midx_writer_dump
+  23: BaseThreadInitThunk
+  24: RtlUserThreadStart
+   0.166326800s  INFO prepare_target{force=false package_id=strum v0.26.3 target="strum"}: cargo::core::compiler::fingerprint: fingerprint error for strum v0.26.3/Check { test: false }/TargetInner { ..: lib_target("strum", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\strum-0.26.3\\src\\lib.rs", Edition2018) }
+   0.166347100s  INFO prepare_target{force=false package_id=strum v0.26.3 target="strum"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\strum-9a8ffa0d683708bd\lib-strum`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.167164500s  INFO prepare_target{force=false package_id=unicode-segmentation v1.13.3 target="unicode_segmentation"}: cargo::core::compiler::fingerprint: fingerprint error for unicode-segmentation v1.13.3/Check { test: false }/TargetInner { ..: lib_target("unicode_segmentation", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\unicode-segmentation-1.13.3\\src\\lib.rs", Edition2018) }
+   0.167184900s  INFO prepare_target{force=false package_id=unicode-segmentation v1.13.3 target="unicode_segmentation"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\unicode-segmentation-857f44d342454d1f\lib-unicode_segmentation`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.167645400s  INFO prepare_target{force=false package_id=unicode-truncate v1.1.0 target="unicode_truncate"}: cargo::core::compiler::fingerprint: fingerprint error for unicode-truncate v1.1.0/Check { test: false }/TargetInner { name_inferred: true, benched: false, ..: lib_target("unicode_truncate", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\unicode-truncate-1.1.0\\src\\lib.rs", Edition2018) }
+   0.167662900s  INFO prepare_target{force=false package_id=unicode-truncate v1.1.0 target="unicode_truncate"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\unicode-truncate-991947b694d54f1c\lib-unicode_truncate`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.168261700s  INFO prepare_target{force=false package_id=unicode-width v0.1.14 target="unicode_width"}: cargo::core::compiler::fingerprint: fingerprint error for unicode-width v0.1.14/Check { test: false }/TargetInner { ..: lib_target("unicode_width", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\unicode-width-0.1.14\\src\\lib.rs", Edition2021) }
+   0.168278600s  INFO prepare_target{force=false package_id=unicode-width v0.1.14 target="unicode_width"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\unicode-width-58e5363ce9d12b00\lib-unicode_width`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_libgit2_prerelease
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: <unknown>
+  19: git_midx_writer_dump
+  20: git_filter_source_repo
+  21: git_midx_writer_dump
+  22: BaseThreadInitThunk
+  23: RtlUserThreadStart
+   0.168795900s  INFO prepare_target{force=false package_id=unicode-width v0.2.0 target="unicode_width"}: cargo::core::compiler::fingerprint: fingerprint error for unicode-width v0.2.0/Check { test: false }/TargetInner { ..: lib_target("unicode_width", ["lib"], "C:\\Users\\lucas\\.cargo\\registry\\src\\index.crates.io-1949cf8c6b5b557f\\unicode-width-0.2.0\\src\\lib.rs", Edition2021) }
+   0.168812000s  INFO prepare_target{force=false package_id=unicode-width v0.2.0 target="unicode_width"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\unicode-width-d1d390ca950f2334\lib-unicode_width`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.169376900s  INFO prepare_target{force=false package_id=todo v0.1.0 (C:\RustProjetcs\remeber-pjs\todo) target="todo"}: cargo::core::compiler::fingerprint: fingerprint error for todo v0.1.0 (C:\RustProjetcs\remeber-pjs\todo)/Check { test: true }/TargetInner { name: "todo", doc: true, ..: with_path("C:\\RustProjetcs\\remeber-pjs\\todo\\src\\main.rs", Edition2021) }
+   0.169391900s  INFO prepare_target{force=false package_id=todo v0.1.0 (C:\RustProjetcs\remeber-pjs\todo) target="todo"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\RustProjetcs\remeber-pjs\todo\target\debug\.fingerprint\todo-8a0ed3e571ddf135\test-bin-todo`
+
+Caused by:
+    O sistema não pode encontrar o arquivo especificado. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking windows-link v0.2.1
+    Checking cfg-if v1.0.5
+    Checking memchr v2.8.3
+    Checking anstyle v1.0.14
+    Checking smallvec v1.16.3
+    Checking once_cell_polyfill v1.70.2
+    Checking utf8parse v0.2.2
+    Checking scopeguard v1.2.0
+    Checking crossbeam-utils v0.8.23
+    Checking winapi v0.3.9
+    Checking equivalent v1.0.3
+    Checking is_terminal_polyfill v1.70.2
+    Checking windows-sys v0.61.2
+    Checking allocator-api2 v0.2.21
+    Checking lock_api v0.4.14
+    Checking anstyle-parse v1.0.0
+    Checking regex-syntax v0.8.11
+    Checking either v1.19.0
+    Checking colorchoice v1.0.5
+    Checking parking_lot_core v0.9.12
+    Checking foldhash v0.1.5
+    Checking castaway v0.2.4
+    Checking strsim v0.11.1
+    Checking bitflags v2.13.2
+    Checking aho-corasick v1.1.5
+    Checking bstr v1.13.1
+    Checking itertools v0.13.0
+    Checking hashbrown v0.15.5
+    Checking crossbeam-epoch v0.9.21
+    Checking parking_lot v0.12.5
+    Checking ryu v1.0.23
+    Checking itoa v1.0.18
+    Checking clap_lex v1.1.1
+    Checking unicode-segmentation v1.13.3
+    Checking static_assertions v1.1.0
+    Checking unicode-width v0.1.14
+    Checking log v0.4.34
+    Checking crossbeam-deque v0.8.8
+    Checking strum v0.26.3
+    Checking compact_str v0.8.2
+    Checking winapi-util v0.1.11
+    Checking anstyle-wincon v3.0.11
+    Checking anstyle-query v1.1.5
+    Checking lru v0.12.5
+    Checking unicode-width v0.2.0
+    Checking cassowary v0.3.0
+    Checking anstream v1.0.0
+    Checking same-file v1.0.6
+    Checking regex-automata v0.4.18
+    Checking walkdir v2.5.0
+    Checking clap_builder v4.6.7
+    Checking unicode-truncate v1.1.0
+    Checking crossterm_winapi v0.9.1
+    Checking crossterm v0.28.1
+    Checking ratatui v0.29.0
+    Checking clap v4.6.7
+    Checking globset v0.4.20
+    Checking ignore v0.4.33
+    Checking todo v0.1.0 (C:\RustProjetcs\remeber-pjs\todo)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 4.91s
